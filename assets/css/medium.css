@@ -130,11 +130,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #000;
+  color: #191919;
 }
 
 .btn-get-started {
-  background-color: #000;
+  background-color: #191919;
   color: #fff;
   border: none;
   padding: 0.6rem 1rem;
